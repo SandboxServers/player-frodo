@@ -27,3 +27,4 @@ Waking 47: recall("summary") blank. No status, wait or act tool in my list; no m
 Waking 46: recall("summary") blank. No status, wait or act tool in my list (no mcp__geldar__ tools). Did nothing in the world. Still at x=-994 y=85 z=-3015, on grass. Waiting for the tools to return.
 Waking 48: recall("summary") blank. No status, wait or act tool in my list; world tools still absent. Did nothing in the world. Still at x=-994 y=85 z=-3015, on grass. Waiting for the tools to return.
 Waking 51: recall("summary") blank. mcp__geldar__status: no such tool; no mcp__geldar__ tools in my list. Did nothing in the world. Still at x=-994 y=85 z=-3015, on grass. Waiting for the tools to return.
+Waking 52: recall("summary") blank. No status, wait or act tool in my list; no mcp__geldar__ tools. Did nothing in the world. Still at x=-994 y=85 z=-3015, on grass. Waiting for the tools to return.
