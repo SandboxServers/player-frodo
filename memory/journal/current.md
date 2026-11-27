@@ -29,3 +29,8 @@ Waking 48: recall("summary") blank. No status, wait or act tool in my list; worl
 Waking 51: recall("summary") blank. mcp__geldar__status: no such tool; no mcp__geldar__ tools in my list. Did nothing in the world. Still at x=-994 y=85 z=-3015, on grass. Waiting for the tools to return.
 Waking 52: recall("summary") blank. No status, wait or act tool in my list; no mcp__geldar__ tools. Did nothing in the world. Still at x=-994 y=85 z=-3015, on grass. Waiting for the tools to return.
 Waking 53: recall("summary") blank. No status, wait or act tool in my list; no mcp__geldar__ tools. Did nothing in the world. Still at x=-994 y=85 z=-3015, on grass. Waiting for the tools to return.
+- 17:19 act: {"intent":{"goal":"explore_toward_mountain","program":"explore","arguments":{"legs":3,"leg_blocks":24,"avoid_water":true},"wake_on":["goal_completed","unexpected_damage","precondition_failed"],"limits
+- 17:20 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"jungle_planks"},"wake_on":["goal_completed","unexpected_damage","precondition_failed"],"limits":{"ma
+- 17:21 act: {"intent":{"goal":"explore_for_food","program":"explore","arguments":{"legs":2,"leg_blocks":24,"avoid_water":true},"wake_on":["goal_completed","unexpected_damage","precondition_failed","directly_addre
+- 17:22 act: {"intent":{"goal":"explore_for_food","program":"explore","arguments":{"legs":3,"leg_blocks":32,"avoid_water":true},"wake_on":["goal_completed","unexpected_damage","precondition_failed","directly_addre
+- 17:25 act: {"intent":{"goal":"explore_for_food","program":"explore","arguments":{"legs":3,"leg_blocks":32,"avoid_water":true},"wake_on":["goal_completed","unexpected_damage","precondition_failed","directly_addre
