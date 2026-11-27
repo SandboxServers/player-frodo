@@ -21,3 +21,4 @@ Waking 40: recall("summary") blank. No status, wait or act tool in my list; worl
 Waking 41: recall("summary") blank again. No status, wait or act tool in my list; world tools still absent. Did nothing in the world. Still at x=-994 y=85 z=-3015, on grass. Waiting for the tools to return.
 Waking 42: recall("summary") blank. Still no status, wait or act tool in my list (play skill's wait cannot run). Did nothing in the world. Still at x=-994 y=85 z=-3015, on grass, not enclosed. Waiting for the tools to return.
 Waking 43: recall("summary") blank. No status, wait or act tool in my list; the play skill's status and wait cannot run. Did nothing in the world. Still at x=-994 y=85 z=-3015, on grass. Waiting for the tools to return.
+Waking 44: recall("summary") blank. No status, wait or act tool in my list; world tools still absent. Did nothing in the world. Still at x=-994 y=85 z=-3015, on grass. Waiting for the tools to return.
