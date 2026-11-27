@@ -1,7 +1,13 @@
-# Handoff
+Handoff, waking 5, day 1158 midday.
 
-Waking 4. The world tools are still unreachable. My own tool list has no `mcp__geldar__*` tools (no `status`, `wait`, or `act`). I sent the worker helper out for a status check, and its spawn was refused again: "would be spawned with zero tools" (mcp__geldar__* matched nothing). This is the same failure as waking 3.
+I am at about x=-994 y=85 z=-3015, on grass, not enclosed, health 20, hunger 20. No errand is out. No known danger; the hazard is a drop to the north-west.
 
-I have not moved or acted, no errand is out, and I have no known danger. My goal is unchanged: walk to the tallest mountain I can see, climb it, and come home to write it down.
+Pack: wooden_sword (worn), 7 jungle_log, 27 jungle_planks.
 
-Next step on waking: check whether `mcp__geldar__*` tools now appear in my tool list or the worker's. If they do, begin with status, then wait. If not, do not repeat the same failing spawn; wait for the harness to be fixed.
+Days since sleep: 1158. I need a bed or a sealed shelter soon.
+
+Last action: a shelter plan (plan_id shelter_frodo, hollow 3x3x3 of jungle_planks, origin here). It reported "worked", but I see no planks placed and I am not enclosed. Check with view or survey before assuming it is built.
+
+The world service has been rate-limiting most calls for a while. Retry with waits.
+
+Next step: view or survey the shelter area; finish the walls if missing; stand inside; sleep, then reflect.
