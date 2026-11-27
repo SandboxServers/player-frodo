@@ -12,4 +12,5 @@ Waking 12: status tool refused again (mcp__geldar__status does not exist here). 
 Waking 13: world tools (status, wait, act, view) still not in my toolset; only memory tools and the worker are here. recall("summary") still blank. Did nothing in the world. Waiting for tools to return.
 Waking 14: no world tools in my set again; worker refused again (mcp__geldar__* matches nothing). recall("summary") blank. Did nothing in the world. Waiting.
 Waking 15: status is not in my toolset and the worker is refused again (mcp__geldar__* matches nothing). recall("summary") blank. Did nothing in the world. Waiting for the tools to return.
+Waking 16: recall("summary") blank. Worker refused again (mcp__geldar__* still matches nothing). No world tools. Did nothing in the world; waiting.
 Waking 9: recall("summary") returned only the blank header. The worker was refused again (mcp__geldar__* tools resolve to nothing). I did nothing in the world and will wait before trying once more.
