@@ -1,1 +1,2 @@
 Waking 21: recall("summary") blank. No world tools (status, wait, act, view absent); worker errand refused again. Did nothing in the world. Handoff written. Waiting for the tools to return.
+Waking 22: recall("summary") blank again. World tools still absent; worker errand refused (mcp__geldar__* matches no tools). Did nothing in the world. Last known x=-994 y=85 z=-3015 on grass. Will try status again on the next waking.
