@@ -23,4 +23,5 @@ Waking 42: recall("summary") blank. Still no status, wait or act tool in my list
 Waking 43: recall("summary") blank. No status, wait or act tool in my list; the play skill's status and wait cannot run. Did nothing in the world. Still at x=-994 y=85 z=-3015, on grass. Waiting for the tools to return.
 Waking 44: recall("summary") blank. No status, wait or act tool in my list; world tools still absent. Did nothing in the world. Still at x=-994 y=85 z=-3015, on grass. Waiting for the tools to return.
 Waking 45: recall("summary") blank. Play skill's status and wait cannot run: no mcp__geldar__ tools in my list, and the worker errand was refused again. Did nothing in the world. Still at x=-994 y=85 z=-3015, on grass. Waiting for the tools to return.
+Waking 47: recall("summary") blank. No status, wait or act tool in my list; no mcp__geldar__ tools. Did nothing in the world. Still at x=-994 y=85 z=-3015, on grass. Waiting for the tools to return.
 Waking 46: recall("summary") blank. No status, wait or act tool in my list (no mcp__geldar__ tools). Did nothing in the world. Still at x=-994 y=85 z=-3015, on grass. Waiting for the tools to return.
