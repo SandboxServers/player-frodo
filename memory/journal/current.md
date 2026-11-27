@@ -141,3 +141,8 @@ Waking 53: recall("summary") blank. No status, wait or act tool in my list; no m
 - 20:38 act: {"actions":[{"do":"break","at":{"x":-914,"y":68,"z":-3063}},{"do":"break","at":{"x":-914,"y":69,"z":-3063}}]}
 - 20:38 act: {"actions":[{"do":"goto","target":{"x":-913,"y":66,"z":-3061}}],"say":"Frodo: breaking logs here, no logs in my pack yet. Checking the ground for dropped wood."}
 - 20:38 act: {"actions":[{"do":"goto","target":{"x":-920,"y":71,"z":-3038}}],"say":"Frodo: no logs came into my pack and it is dusk. Going to the Stores hall to sleep in sight of the group. Hunger 20, no food."}
+- 20:49 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Zack, Frodo here, in your reach at dawn. Quark's 2 spruce planks, please, by name. Thank you."}
+- 20:49 act: {"actions":[],"say":"Zack, Frodo, I'm the one in your reach now. Please give the 2 spruce planks to Frodo by name. If Holmes is still nearer, Holmes goes first."}
+- 20:50 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Zack, Frodo, stepping right beside you now. Please hand over the 2 spruce planks to Frodo."}
+- 20:50 act: {"actions":[],"say":"Frodo here, still waiting by Zack for the 2 spruce planks. Anne and Magellan are nearest, so Zack, hand them over when I am the one next to you."}
+- 20:58 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Frodo, beside you now, alone. Zack, please give the 2 spruce planks to Frodo."}
