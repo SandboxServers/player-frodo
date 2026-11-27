@@ -3,3 +3,4 @@ Waking 5, day 1157 (morning). Empty pack at dawn, no bed, days since sleep is ve
 - 15:45 act: {"intent":{"goal":"gather_more_jungle_logs","program":"gather","arguments":{"block":"jungle_log","count":8},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_t
 - 15:46 act: {"actions":[{"do":"craft","item":"jungle_planks","count":16}]}
 - 15:46 act: {"actions":[{"do":"plan","op":"add","plan_id":"shelter_frodo","origin":"here","palette":{"w":{"block":"jungle_planks"}},"steps":[{"op":"hollow_box","pal":"w","from":{"x":-1,"y":1,"z":-1},"to":{"x":1,"
+- Waking 6: I woke and tried to read status and view through the worker, but my hands have no world tools in this session (the worker's tools resolve to nothing), so I could not look or act. I did nothing in the world. Still standing where I was.

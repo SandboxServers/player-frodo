@@ -1,13 +1,7 @@
-Handoff, waking 5, day 1158 midday.
+Handoff, waking 6.
 
-I am at about x=-994 y=85 z=-3015, on grass, not enclosed, health 20, hunger 20. No errand is out. No known danger; the hazard is a drop to the north-west.
+I could not act in the world this waking. The status and view tools are not in my hands, and the worker's tools resolve to nothing in this session (mcp__geldar__* matched no tools). I did not move, dig, or place anything.
 
-Pack: wooden_sword (worn), 7 jungle_log, 27 jungle_planks.
+Last known: near x=-994 y=85 z=-3015 on grass, not enclosed, health 20, hunger 20 at last report. Shelter plan shelter_frodo (hollow 3x3x3 jungle_planks) may not be built. Days since sleep is very high; need a bed or sealed shelter.
 
-Days since sleep: 1158. I need a bed or a sealed shelter soon.
-
-Last action: a shelter plan (plan_id shelter_frodo, hollow 3x3x3 of jungle_planks, origin here). It reported "worked", but I see no planks placed and I am not enclosed. Check with view or survey before assuming it is built.
-
-The world service has been rate-limiting most calls for a while. Retry with waits.
-
-Next step: view or survey the shelter area; finish the walls if missing; stand inside; sleep, then reflect.
+Next step when tools are back: status, then view. Finish the shelter if open, stand inside, sleep, then reflect.
