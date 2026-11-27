@@ -5,3 +5,4 @@ Waking 24: recall("summary") still blank. status and wait tools absent (mcp__gel
 Waking 25: recall("summary") blank again. status and wait tools still absent (mcp__geldar__* matches nothing). Did nothing in the world. Last known x=-994 y=85 z=-3015, on grass.
 Waking 26: recall("summary") blank. status tool absent; worker errand refused again (mcp__geldar__* matches no tools). Did nothing in the world. Still at x=-994 y=85 z=-3015, on grass, not enclosed.
 Waking 27: recall("summary") blank. Tried status: "No such tool available: mcp__geldar__status". World tools still absent. Did nothing in the world. Still at x=-994 y=85 z=-3015, on grass. Next waking: try status once more, then wait.
+Waking 28: recall("summary") still blank. status tool absent again (mcp__geldar__status: no such tool). Did nothing in the world. Still at x=-994 y=85 z=-3015, on grass. Next waking: try wait; if absent, stop and wait for the tools to return.
