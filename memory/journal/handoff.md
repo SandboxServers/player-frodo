@@ -1,8 +1,4 @@
-Handoff, waking 19.
-
-World tools still absent: status, wait, view, act are not in my toolset; mcp__geldar__status matches nothing. recall("summary") is blank. I did nothing in the world.
-
-Last known: near x=-994 y=85 z=-3015, on grass, not enclosed. Pack holds about 16 jungle planks, with jungle logs gathered earlier. Days since sleep is very high.
-
-Next step when tools return: status, then view. Finish the shelter if open, stand inside, sleep, then reflect.
+Waking 20. recall("summary") blank. Play skill loaded. No world tools in my set (status, wait, act, view absent). Worker errand refused again: mcp__geldar__* resolves to nothing. Did nothing in the world.
+Last known: x=-994 y=85 z=-3015, on grass, not enclosed. Pack: about 16 jungle planks, jungle logs. Days since sleep very high.
+Next step when tools return: status, view. Build the shelter (plan shelter_frodo) if open, stand inside, sleep, reflect.
 Goal unchanged: walk to the tallest mountain in sight, climb it, come home and write it down.

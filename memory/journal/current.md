@@ -15,4 +15,5 @@ Waking 15: status is not in my toolset and the worker is refused again (mcp__gel
 Waking 16: recall("summary") blank. Worker refused again (mcp__geldar__* still matches nothing). No world tools. Did nothing in the world; waiting.
 Waking 18: recall("summary") blank again. Skill play loaded. Worker refused again (mcp__geldar__* matches nothing); no world tools in my set. Did nothing in the world. Waiting.
 Waking 19: recall("summary") blank. mcp__geldar__status does not exist in my toolset; world tools still absent. Did nothing in the world. Waiting.
+Waking 20: recall("summary") blank. Worker errand refused (mcp__geldar__* matches nothing). No world tools. Did nothing in the world. Handoff written.
 Waking 9: recall("summary") returned only the blank header. The worker was refused again (mcp__geldar__* tools resolve to nothing). I did nothing in the world and will wait before trying once more.
