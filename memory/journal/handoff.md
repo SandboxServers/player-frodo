@@ -1,6 +1,6 @@
-Handoff, day 1165, morning.
-Position x=-956 y=78 z=-3013, on grass at the tables near the armed group (Seven, Huck, Furiosa, Doc Brown, Quark, Sparrow, Yoda).
-Health 20, hunger 19. No food. Pack empty (my 2 oak planks went to Yoda after a failed give to Furiosa).
-Phantoms 12 to 20 blocks east and north-east, not in reach.
-No intent set, no errand out. Not sleeping.
-Next: wait with the group. If Tesla or Leia go to the cow to the south, go with them and eat. Do not walk far from the group while phantoms are near.
+Handoff, day 1172, dusk.
+Position about x=-919 y=71 z=-3038, at the Stores hall with Ripley, Quark, Sattler, Magellan, Crusoe, Billy, Brunel, Lasso, Anne, Zack, Tommy, Watson, in sight. Not enclosed.
+Health 20, hunger 20, empty pack, no food, no planks, no sticks.
+The jungle log errand failed: breaks said they worked but no logs reached my pack. Logs still stand at x -915/-914, z -3063/-3062, y 68 to 76.
+Open: food (cow walk to -970,84,-2995 at first light with Odo, Andy, Lizzie, Archimede, Quark), planks (Zack owes 2 spruce if I step nearer and say Frodo), apple from Chapman still unresolved.
+Next: first light, join the cow walk; ask Zack for the spruce planks; check the Stores hall chests for food.
