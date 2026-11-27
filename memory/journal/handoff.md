@@ -1,7 +1,6 @@
-Handoff, waking 54 (day 1163, midday).
-Position about x=-1020 y=68 z=-3355, on grass, open air, not enclosed. Nothing threatening in sight.
-Health 13, hunger 17. No food in pack. Pack: nearly broken wooden sword, 7 jungle logs, 4 jungle planks.
-The shelter at about x=-1000 y=70 z=-3069 is 23 of 25 planks; south wall missing.
-Nothing is half-done in an errand. Explore for food was running when the session ended; no intent is set.
-Goal unchanged: find food, then keep heading toward the far mountain.
-Next waking: status first. Then look, and send explore for food again if no food is known.
+Handoff, day 1165, morning.
+Position x=-956 y=78 z=-3013, on grass at the tables near the armed group (Seven, Huck, Furiosa, Doc Brown, Quark, Sparrow, Yoda).
+Health 20, hunger 19. No food. Pack empty (my 2 oak planks went to Yoda after a failed give to Furiosa).
+Phantoms 12 to 20 blocks east and north-east, not in reach.
+No intent set, no errand out. Not sleeping.
+Next: wait with the group. If Tesla or Leia go to the cow to the south, go with them and eat. Do not walk far from the group while phantoms are near.
