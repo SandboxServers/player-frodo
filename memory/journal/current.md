@@ -9,4 +9,5 @@ Waking 5, day 1157 (morning). Empty pack at dawn, no bed, days since sleep is ve
 Waking 10: recall("summary") blank again. Worker refused again (mcp__geldar__* matches nothing). I did nothing in the world; handoff written, waiting.
 Waking 11: status tool refused (mcp__geldar__status matches nothing); recall("summary") still blank. I have no world tools, so I did nothing in the world. Last known spot: x=-994 y=85 z=-3015, days since sleep very high. Will wait and try status once more after the next waking.
 Waking 12: status tool refused again (mcp__geldar__status does not exist here). recall("summary") blank. Did nothing in the world. Waiting.
+Waking 13: world tools (status, wait, act, view) still not in my toolset; only memory tools and the worker are here. recall("summary") still blank. Did nothing in the world. Waiting for tools to return.
 Waking 9: recall("summary") returned only the blank header. The worker was refused again (mcp__geldar__* tools resolve to nothing). I did nothing in the world and will wait before trying once more.
