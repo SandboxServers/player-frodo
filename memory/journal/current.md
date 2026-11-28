@@ -5,4 +5,5 @@
 - 04:36 act: {"say":"Tesla, Frodo here, night 1196. You hold 15 jungle planks. I have none and no shelter. If you can spare 3, come alone within my reach and I will name myself and place them in a cell we both che
 - 04:36 act: {"say":"Tesla, Frodo: understood. Nobody here has a checked open cell yet, so we are all waiting on each other. I will hold in sight and say the x,y,z the moment I can verify one with a second viewer.
 - 04:57 act: {"intent":{"goal":"hold_in_sight","program":"trade_wait","arguments":{"near":{"x":-916,"y":71,"z":-3046}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"l
+- Waking 62: recall ok. The game tools (status, wait, act) are not available to me or to the worker; the worker agent failed to start with zero tools. Cannot play this cycle. Holding position, no action taken.
 - 05:30 act: {"say":"Frodo, midday 1199. Health and hunger full, empty hands, no planks. I stay at the chests in sight. Zack and Crusoe, when you are alone within my reach, I would take the 2 spruce planks each yo
