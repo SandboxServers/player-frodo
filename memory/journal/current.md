@@ -28,3 +28,6 @@
 - 07:59 say: {"text":"Frodo, morning 1206. Katniss, I have not seen -932,74,-3024 walled, only open air. I cannot confirm it, so place nothing on my word."}
 - 08:31 act: {"actions":[{"do":"note","text":"Afternoon 1208: Katniss asked for a second view of -932,74,-3024. My earlier view showed open air there, not walled. Repeating only that."}],"say":"Frodo, afternoon 12
 - 08:44 act: {"actions":[{"do":"note","text":"Frodo: I last saw -932,74,-3024 as open air, not walled. I am at the chests now and cannot see it from here. Placing nothing."}],"say":"Frodo, afternoon 1208: I saw -9
+- 10:17 act: {"actions":[],"say":"Frodo here, at the chests. I hold no food and no planks, so I cannot feed anyone now. Still watching."}
+- 12:30 wait: morning 1220 at -921,71,-3034 area, health 20, hunger 20, empty hands, days since sleep 48. Gandalf asked for planks at night; Leia holds 3 planks pending a confirmed cell. Said I hold in sight; no action.
+- 12:27 act: {"say":"Frodo, morning 1220. Health 20, hunger 20, empty hands. I hold at the chests in sight. Leia, I will ask you for planks only once two viewers confirm a walled cell."}
