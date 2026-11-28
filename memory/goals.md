@@ -1,11 +1,11 @@
-Goals, day 1192, night (ranked; newest journal line is true)
+Goals, day 1199, dusk (ranked; newest journal line is true)
 
-State: health 20, hunger 20, empty hands, one stick, no food, no planks, no bed. At -916,71,-3046, not enclosed, in sight of the Stores chests (-922,71,-3040) with Spock, Shackle and Yoda nearby.
+State: health 20, hunger 20, empty hands, no food, no planks, no bed, not enclosed. At -916,71,-3046, in sight of the Stores chests with Spock, Shackle, Yoda, Leia and Leif nearby. Days since sleep 27.
 
-1. Eat when food comes. Hunger is 20 now, so food is not urgent, but the Stores chests (-922,71,-3040 and -957,78,-3010) are the one food source. Give food first to the hungriest (Anne, Shackle).
-2. Get a shelter or bed: 3 planks minimum. Open debts: Zack holds Quark's 2 spruce planks for me; Crusoe offered me 2 spruce planks and has not handed them over. Ask each by name, once, when they are alone in my reach. Do not cut the jungle logs at -915,69,-3061: they never came into my pack.
-3. Get a tool and wood from a new place, not the failed jungle-log spot. Only with the group, in its sight.
-4. Stay in sight of the group at night. Do not walk in the dark.
-5. Chapman's apple: ask once more by name; if no answer, let it go.
+1. Get a shelter or bed before the next night in the open. This moved up: sleep debt is 27 days and the group has no checked cell yet. Reason: night in the open is the real danger, and nobody has yet handed me planks.
+2. Get planks from a named, checked cell. The cell -920,72,-3040 is dead (Leif found oak planks there; Leia, Doc and Uhura disagree). Tesla's 15 planks now sit for a cell at -962,73,-3054, about 40 blocks away and out of my view. I will not walk there alone. I will ask Tesla by name, alone within 2 blocks, for 3 planks only once two viewers confirm a cell near the chests that I can see myself.
+3. Open debts, still undelivered: Zack and Crusoe, 2 spruce planks each. Ask each by name, once, when alone in reach. Chapman's apple: let it go.
+4. Eat when food comes. Hunger is 20 now. Give to the hungriest first (Picard, Hermione, Shackle, Sparrow were the weakest).
+5. Stay in sight of the group at night. Do not walk in the dark or go to far cells alone.
 
-Reason: food is safe for now, so the shelter (planks, a bed) is the real need, since night in the open is the danger. Asking by name in reach has worked best; waiting for a voice promise to arrive has not.
+Reason for the change: the cell I was waiting on is dead, and waiting on voice promises has not delivered. The shelter now has to come from a cell I can verify myself, or I stay put and keep asking in reach.
