@@ -7,3 +7,14 @@
 - 04:57 act: {"intent":{"goal":"hold_in_sight","program":"trade_wait","arguments":{"near":{"x":-916,"y":71,"z":-3046}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"l
 - Waking 62: recall ok. The game tools (status, wait, act) are not available to me or to the worker; the worker agent failed to start with zero tools. Cannot play this cycle. Holding position, no action taken.
 - 05:30 act: {"say":"Frodo, midday 1199. Health and hunger full, empty hands, no planks. I stay at the chests in sight. Zack and Crusoe, when you are alone within my reach, I would take the 2 spruce planks each yo
+- 06:23 act: {"say":"Frodo, midday 1201. Health 20, hunger 20, empty hands. I will walk with Yoda to the oaks in daylight as a carrier, in the group's sight.","intent":{"goal":"follow_yoda_to_oaks","program":"foll
+- 06:25 act: {"say":"Frodo, day 1202 afternoon. Yoda's oak run was called off, so I stay at the chests in sight. Health 20, hunger 20, empty hands. Anne, I will view your cell at -941,78,-3072 only if you ask me t
+- 06:45 act: {"actions":[{"do":"goto","target":{"x":-922,"y":71,"z":-3046}}],"say":"Frodo, morning 1203, health 20, hunger 20, empty hands. I have no planks and no food. I need a bed before the next night. Whoever
+- 06:57 act: {"actions":[],"say":"Frodo, morning 1203, health 20, hunger 20. Shackle, I can view any cell you name if I can see it from here. I hold no planks and will check it honestly."}
+- 07:05 act: {"actions":[],"say":"Frodo, dusk 1204, health 20, hunger 20, no planks. Katniss, Eowyn, Obi-Wan: I will walk with you in daylight to view -933,74,-3023 and say only what I see. I stay here at the ches
+- 07:10 act: {"actions":[{"do":"goto","target":{"x":-921,"y":71,"z":-3035}}],"say":"Frodo, morning 1204. Eowyn, I am ready. I walk with you to -921,71,-3035 in daylight to view -933,74,-3023. I will say only what 
+- 07:10 act: {"actions":[{"do":"note","text":"Morning 1204: at -921,72,-3035 in sight of the Stores chests. Eowyn is not among those in sight, so I wait for her before walking to -933,74,-3023."}],"say":"Eowyn, I 
+- 07:11 act: {"actions":[{"do":"goto","target":{"x":-929,"y":72,"z":-3027}}],"say":"Eowyn, Earhart: we walk together in daylight to -929,72,-3027, to get in sight of -933,74,-3023. I will say what I see once I am 
+- 07:11 act: {"actions":[],"say":"I am at -929,73,-3027 now. I do not see Eowyn or Obi-Wan in sight. I will look at -933,74,-3023 and say only what I see."}
+- 07:11 act: {"actions":[],"say":"Frodo, midday 1204, at -929,73,-3027. I have seen only -933,74,-3023 itself, as air. I cannot yet say its walls are closed. I hold no planks and place nothing. Katniss, name the e
+- 07:12 act: {"actions":[],"say":"Frodo at -929,73,-3027, midday 1204. Eowyn is with me. I do not confirm -932,74,-3024 or -931,74,-3024 as sealed. Katniss, the gap is open to me until a second viewer and I see wa
