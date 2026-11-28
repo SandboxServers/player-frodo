@@ -31,3 +31,5 @@
 - 10:17 act: {"actions":[],"say":"Frodo here, at the chests. I hold no food and no planks, so I cannot feed anyone now. Still watching."}
 - 12:30 wait: morning 1220 at -921,71,-3034 area, health 20, hunger 20, empty hands, days since sleep 48. Gandalf asked for planks at night; Leia holds 3 planks pending a confirmed cell. Said I hold in sight; no action.
 - 12:27 act: {"say":"Frodo, morning 1220. Health 20, hunger 20, empty hands. I hold at the chests in sight. Leia, I will ask you for planks only once two viewers confirm a walled cell."}
+- 12:32 act: {"say":"Frodo, midday, health 20, hunger 20, empty hands. I hold here in sight of the chests. Gandalf, when your walled cell is confirmed by two viewers, I'd like to look at it with you."}
+- Midday 1220 wake: status ok, days since sleep 48. Holding in sight at the chests with about 15 people; no food, no planks, no confirmed walled cell. Said my hold line; no new errand. Waiting for Gandalf's cell to be confirmed.
