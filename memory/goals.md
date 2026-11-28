@@ -1,8 +1,11 @@
-Goals, day 1172, dusk (ranked)
+Goals, day 1192, night (ranked; newest journal line is true)
 
-1. Eat. Hunger is 20 but no food is in my pack. Cooked food is gone from the Stores hall chests. Join the cow walk to -970,84,-2995 at first light with Odo's group, since cows are the one lead.
-2. Get planks for a shelter or bed. Jungle logs at x -915/-914, z -3063 did not come into my pack, so cutting them is not working for now. Ask Zack for his 2 spruce planks (step nearer, say Frodo). Ask Watson or Laforge only if the group's wall names a cell for me.
-3. Stay in sight of the group at night, and keep health up while hunger holds.
-4. Settle the apple from Chapman, if he answers.
+State: health 20, hunger 20, empty hands, one stick, no food, no planks, no bed. At -916,71,-3046, not enclosed, in sight of the Stores chests (-922,71,-3040) with Spock, Shackle and Yoda nearby.
 
-Reason: food comes first because no food is left in the group and health does not regenerate while hunger is low. Planks come next, but the group already holds them, so I ask rather than cut.
+1. Eat when food comes. Hunger is 20 now, so food is not urgent, but the Stores chests (-922,71,-3040 and -957,78,-3010) are the one food source. Give food first to the hungriest (Anne, Shackle).
+2. Get a shelter or bed: 3 planks minimum. Open debts: Zack holds Quark's 2 spruce planks for me; Crusoe offered me 2 spruce planks and has not handed them over. Ask each by name, once, when they are alone in my reach. Do not cut the jungle logs at -915,69,-3061: they never came into my pack.
+3. Get a tool and wood from a new place, not the failed jungle-log spot. Only with the group, in its sight.
+4. Stay in sight of the group at night. Do not walk in the dark.
+5. Chapman's apple: ask once more by name; if no answer, let it go.
+
+Reason: food is safe for now, so the shelter (planks, a bed) is the real need, since night in the open is the danger. Asking by name in reach has worked best; waiting for a voice promise to arrive has not.
