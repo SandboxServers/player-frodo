@@ -18,3 +18,11 @@
 - 07:11 act: {"actions":[],"say":"I am at -929,73,-3027 now. I do not see Eowyn or Obi-Wan in sight. I will look at -933,74,-3023 and say only what I see."}
 - 07:11 act: {"actions":[],"say":"Frodo, midday 1204, at -929,73,-3027. I have seen only -933,74,-3023 itself, as air. I cannot yet say its walls are closed. I hold no planks and place nothing. Katniss, name the e
 - 07:12 act: {"actions":[],"say":"Frodo at -929,73,-3027, midday 1204. Eowyn is with me. I do not confirm -932,74,-3024 or -931,74,-3024 as sealed. Katniss, the gap is open to me until a second viewer and I see wa
+- 07:12 act: {"actions":[],"say":"Frodo: my view is full of players, so the grid shows only mobs, not the cells -932,74,-3024 or -931,74,-3024. I cannot confirm either as open or sealed from here. I will not name 
+- 07:14 act: {"actions":[],"say":"Frodo at -929,73,-3027, midday 1204. Same as Han and Boudicca: I see no confirmed walls on -932 or -931 at y74. I confirm nothing and place nothing."}
+- 07:18 act: {"actions":[{"do":"goto","target":{"x":-921,"y":72,"z":-3035}}],"say":"Frodo: sun is low. I go back to the chests group at -921,72,-3035 to stay in sight for the night. I place nothing."}
+- 07:26 act: {"actions":[{"do":"goto","target":{"x":-929,"y":73,"z":-3027}}],"say":"Frodo, midday 1205, walking to -929,73,-3027 in daylight to view the cell with Katniss and Kira. I place nothing until two viewer
+- 07:26 act: {"say":"Frodo at -929,73,-3027, midday 1205. Survey of the cell area: y74 is mostly air with grass at a few edges, no walls I can confirm. I see no sealed cell. I place nothing.","actions":[{"do":"not
+- 07:29 act: {"say":"Frodo, afternoon 1205 at -929,73,-3027: the cell is not walled as far as I can see. Y74 is mostly air with grass at the edges. I call it open, not sealed. I place nothing.","actions":[{"do":"g
+- 07:34 act: {"say":"Frodo, morning 1205. From -929,73,-3027 at midday I saw -933,74,-3023 area as air, with grass at the edges, and no walls I could confirm. I call the gap open, not walled. I place nothing. I st
+- 07:59 say: {"text":"Frodo, morning 1206. Katniss, I have not seen -932,74,-3024 walled, only open air. I cannot confirm it, so place nothing on my word."}
