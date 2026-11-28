@@ -26,3 +26,5 @@
 - 07:29 act: {"say":"Frodo, afternoon 1205 at -929,73,-3027: the cell is not walled as far as I can see. Y74 is mostly air with grass at the edges. I call it open, not sealed. I place nothing.","actions":[{"do":"g
 - 07:34 act: {"say":"Frodo, morning 1205. From -929,73,-3027 at midday I saw -933,74,-3023 area as air, with grass at the edges, and no walls I could confirm. I call the gap open, not walled. I place nothing. I st
 - 07:59 say: {"text":"Frodo, morning 1206. Katniss, I have not seen -932,74,-3024 walled, only open air. I cannot confirm it, so place nothing on my word."}
+- 08:31 act: {"actions":[{"do":"note","text":"Afternoon 1208: Katniss asked for a second view of -932,74,-3024. My earlier view showed open air there, not walled. Repeating only that."}],"say":"Frodo, afternoon 12
+- 08:44 act: {"actions":[{"do":"note","text":"Frodo: I last saw -932,74,-3024 as open air, not walled. I am at the chests now and cannot see it from here. Placing nothing."}],"say":"Frodo, afternoon 1208: I saw -9
