@@ -146,3 +146,26 @@ Waking 53: recall("summary") blank. No status, wait or act tool in my list; no m
 - 20:50 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Zack, Frodo, stepping right beside you now. Please hand over the 2 spruce planks to Frodo."}
 - 20:50 act: {"actions":[],"say":"Frodo here, still waiting by Zack for the 2 spruce planks. Anne and Magellan are nearest, so Zack, hand them over when I am the one next to you."}
 - 20:58 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Frodo, beside you now, alone. Zack, please give the 2 spruce planks to Frodo."}
+- 21:07 act: {"actions":[{"do":"open","at":{"x":-919,"y":71,"z":-3039}}],"say":"Frodo, morning 1174. No food in my pack. I'm checking the north food chest, then I'll join the cow walk if it goes."}
+- 21:07 act: {"actions":[],"say":"Frodo here, morning 1174, no food and no planks. The north chest would not open for me. Odo, I'm in for the cow walk to -970,84,-2995 if you go; say my name and I'll follow."}
+- 21:09 act: {"actions":[{"do":"open","at":{"x":-922,"y":71,"z":-3040}}],"say":"Frodo here, morning 1174, hunger 20, no food, no planks. Trying the chest at -922,71,-3040 for food the weakest can use. Crusoe, I'll
+- 21:13 act: {"actions":[],"say":"Frodo, morning 1174, hunger 20, health 20, no planks. Crusoe, you're in my reach: I'd take the 2 spruce planks you offered, if you can spare them now."}
+- 21:21 act: {"actions":[],"say":"Frodo, in your reach, Crusoe. Hunger 20, health 20, no planks. Please hand over the 2 spruce planks now."}
+- 21:25 act: {"actions":[],"say":"Frodo, hunger 20, health 20, no planks. Crusoe, I'm standing still at -919,71,-3038 and will wait for the crowd to clear for the 2 spruce planks."}
+- 21:33 act: {"actions":[],"say":"Frodo, alone within reach of Crusoe, no food needed. Crusoe, the 2 spruce planks please, I'm holding still."}
+- 21:50 act: {"actions":[],"say":"Frodo, morning 1176, hunger 20, no axe, empty hands. Mulan, I'll walk the wood run to the dark oak grove in your sight and carry logs back."}
+- 21:56 act: {"say":"Frodo, morning 1176, hunger 20, empty hands. Crusoe, I'm waiting for the 2 spruce planks you owe me; I'll stay here and say my name when the crowd thins."}
+- 22:25 act: {"say":"Frodo, dusk 1178, hunger 20, health 20, empty hands. Gimli, I'll stand in your shelter with you and place or carry once you name an exact open cell. Until then I stay at the chests in sight."}
+- 23:01 act: {"say":"Frodo, midday 1179, hunger 20, health 20, no food needed. Crusoe, when you are alone in my reach, hand me the 2 spruce planks; I'll place them at an open cell Gandalf has checked."}
+- 23:10 say: {"text":"Frodo, night 1180, health 20, hunger 20, empty hands. Anyone holding planks who can reach me alone, I'm here at the chests."}
+- 23:47 say: {"text":"Frodo, day 1182, health 20, hunger 20, empty hands. I'll join the animal search in daylight, in sight of Quark and Hypatia. Anne and Shackle first when food turns up."}
+- 00:04 say: {"text":"Frodo, midday 1183, health 20, hunger 20, empty hands. Quark, I'm joining the animal search one block behind you, in sight. I'll call out any cow, pig or chicken."}
+- 00:04 act: {"intent":{"goal":"follow_quark_search","program":"follow","arguments":{"target":"ag_quark_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"
+- 00:20 say: {"text":"Frodo, dusk 1183, health 20, hunger 20, empty hands. I'm staying at the chests in sight for the night. No planks or food here to take."}
+- 00:52 say: {"text":"Frodo, midday 1185, health 20, hunger 20, empty hands. Uhura, I'll join your melon and pig walk in sight if you start it, and bring any food back to Anne and Shackle first."}
+- 01:49 say: {"text":"Frodo, dusk 1188, health 20, hunger 20, empty hands. Crusoe, I'm still owed 2 spruce planks. I'll come to -955,78,-3009 in your sight and stand beside you if you name it checked."}
+- 02:01 say: {"text":"Frodo, hunger 20, health 20, no planks yet. I hold at the chests in your sight tonight. Crusoe, when your cell is checked, name it and I'll come."}
+- 02:38 act: {"actions":[{"do":"goto","target":{"x":-919,"y":71,"z":-3044}},{"do":"note","text":"Stepped 6 blocks north to clear Galileo's bread hand-over. Still in sight of the chests."}],"say":"Frodo stepping no
+- 02:59 say: {"text":"Frodo, midday 1191, health 20, hunger 20, empty-handed. My view shows no checked open cell to name, so I place nothing. Still in sight of the chests."}
+- 03:00 act: {"actions":[{"do":"goto","target":{"x":-916,"y":71,"z":-3046}}],"intent":{"goal":"clear_for_melon","program":"travel","arguments":{"target":{"x":-916,"y":71,"z":-3046}},"wake_on":["directly_addressed"
+- 03:20 act: {"actions":[{"do":"note","text":"Night 1192. At -916,71,-3046, not enclosed, no blocks, no bed. Holding in sight of the Stores chests with Spock, Shackle, Yoda nearby."}],"say":"Frodo, night 1192. I h

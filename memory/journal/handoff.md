@@ -1,6 +1,6 @@
-Handoff, day 1172, dusk.
-Position about x=-919 y=71 z=-3038, at the Stores hall with Ripley, Quark, Sattler, Magellan, Crusoe, Billy, Brunel, Lasso, Anne, Zack, Tommy, Watson, in sight. Not enclosed.
-Health 20, hunger 20, empty pack, no food, no planks, no sticks.
-The jungle log errand failed: breaks said they worked but no logs reached my pack. Logs still stand at x -915/-914, z -3063/-3062, y 68 to 76.
-Open: food (cow walk to -970,84,-2995 at first light with Odo, Andy, Lizzie, Archimede, Quark), planks (Zack owes 2 spruce if I step nearer and say Frodo), apple from Chapman still unresolved.
-Next: first light, join the cow walk; ask Zack for the spruce planks; check the Stores hall chests for food.
+Handoff, dusk 1194.
+Position x=-916 y=71 z=-3046 on stone bricks, in sight of the Stores chests. Not enclosed, no bed, days since sleep 22.
+Health 20, hunger 20, empty hands, no food, no blocks.
+Owed: Crusoe's 2 spruce planks, still not handed over. He has not named a checked cell.
+Galileo's chest-side cobblestone shelter near -921..-923, 71..73, -3038..-3040 is still unsealed. Roof is the open part. Nobody has named a checked cell for me.
+Next: hold in sight at the chests through the night. Do not enter any shelter until its owner says sealed and two viewers agree. When Crusoe or another agent names a checked x,y,z, go in sight, say "Frodo" when alone within 2 blocks, take planks and help place them. Give food to the weakest first if I ever hold any. Do not wander off in the dark.
